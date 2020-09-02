@@ -1,0 +1,51 @@
+{
+   "entities" : [
+
+        {
+            "id":"1",
+            "name":"Tuesday"
+        },
+        {
+            "id":"2",
+            "name":"Kitchen"
+        }
+    
+    ],
+
+    "tasks" : [
+
+        {
+            "id":"1a",
+            "creatorId":"1",
+            "taskName":"Go to the dentist at 16:00",
+            "completed":"0"
+        },
+        {
+            "id":"1b",
+            "creatorId":"1",
+            "taskName":"Pick the car at the mechanic",
+            "completed":"0"
+        },
+        {
+            "id":"12da",
+            "creatorId":"2",
+            "taskName":"Clean the floor",
+            "completed":"0"
+        },
+        {
+            "id":"1bs",
+            "creatorId":"1",
+            "taskName":"Zoom Call with the team",
+            "completed":"1"
+        },
+        {
+            "id":"1dsb",
+            "creatorId":"2",
+            "taskName":"Prepare Dineer",
+            "completed":"0"
+        }
+    
+    ]
+}
+
+
