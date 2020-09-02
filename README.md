@@ -3,6 +3,7 @@
 A task manager
 
 ![alt text](https://imgur.com/Jor6lYU)
+![alt text]([Imgur](https://imgur.com/Jor6lYU))
 
 ## Getting Started
 
